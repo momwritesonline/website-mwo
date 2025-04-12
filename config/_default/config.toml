@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://www.momwritesonline.com"
+baseurl = "https://momwritesonline.com"
 languageCode = "en-us"
 title = "Writing ideas sharing informations"
 

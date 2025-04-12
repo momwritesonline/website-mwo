@@ -16,9 +16,9 @@ url = "https://github.com/momwritesonline"
 icon = "brand-github"
 
 [[social]]
-identifier = "youtube"
-name = "YouTube"
+identifier = "twitter"
+name = "Twitter"
 url = "https://www.youtube.com/@MindfulExplorationClub"
 
 [social.params]
-icon = "brand-youtube"
+icon = "brand-twitter"
